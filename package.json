@@ -1,0 +1,19 @@
+{
+  "name": "hubot-hodor",
+  "version": "1.0.0",
+  "description": "HODOR!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zGrav@github.com/zGrav/hubot-hodor.git"
+  },
+  "author": "David Silva <zgrav@go.su>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zGrav/hubot-hodor/issues"
+  },
+  "homepage": "https://github.com/zGrav/hubot-hodor#readme"
+}
